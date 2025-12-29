@@ -10,6 +10,9 @@
 !.yarn/releases
 !.yarn/versions
 
+3 JetBrains IDEs
+/.idea/
+
 # testing
 /coverage
 
@@ -39,3 +42,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+PLAN.md
